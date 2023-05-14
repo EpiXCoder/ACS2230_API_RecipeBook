@@ -1,4 +1,4 @@
-![ontology2](https://github.com/EpiXCoder/ACS2230_API_RecipeBook/assets/111717862/cf37ee86-a602-47c7-bf2d-1a907333c911)
+<img src="https://user-images.githubusercontent.com/111717862/238165569-cf37ee86-a602-47c7-bf2d-1a907333c911.svg" alt="ontology2" style="width: 200px; height: 200px;">
 
 # Recipes API
 Never lose a recipe again. Save your favourite recipes or save the recipes you create so that you never lose the magic formula you whipped up!
